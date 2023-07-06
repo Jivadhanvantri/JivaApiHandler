@@ -1,0 +1,59 @@
+2023-07-03 13:21:12 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/jiva/.m2/repository/org/json/json/20210307/json-20210307.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/jiva/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-07-03 13:21:12 [main] INFO  c.j.a.JivaApiHandlerApplicationTests - Starting JivaApiHandlerApplicationTests using Java 1.8.0_202 on PAWANK-IT with PID 17144 (started by jiva in D:\Working-Space\jivaEclipseWorkspace\JivaApiHandler)
+2023-07-03 13:21:12 [main] INFO  c.j.a.JivaApiHandlerApplicationTests - The following 1 profile is active: "prod"
+2023-07-03 13:21:15 [main] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - maxLifetime is less than 30000ms, setting to default 1800000ms.
+2023-07-03 13:21:15 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-07-03 13:21:15 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-07-03 13:21:15 [main] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - maxLifetime is less than 30000ms, setting to default 1800000ms.
+2023-07-03 13:21:15 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2023-07-03 13:21:15 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2023-07-03 13:21:15 [main] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - maxLifetime is less than 30000ms, setting to default 1800000ms.
+2023-07-03 13:21:15 [main] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-07-03 13:21:15 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2023-07-03 13:21:15 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2023-07-03 13:21:17 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2023-07-03 13:21:18 [main] INFO  c.j.a.JivaApiHandlerApplicationTests - Started JivaApiHandlerApplicationTests in 7.054 seconds (JVM running for 8.392)
+2023-07-03 13:21:19 [registrationTask1] INFO  d.c.b.a.c.r.ApplicationRegistrator - Application registered itself as 15c08fa3cfa5
+2023-07-03 13:21:19 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2023-07-03 13:21:19 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2023-07-03 13:21:19 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2023-07-03 13:21:19 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2023-07-03 13:21:19 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-07-03 13:21:19 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-07-03 13:34:31 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/jiva/.m2/repository/org/json/json/20210307/json-20210307.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/jiva/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-07-03 13:34:31 [main] INFO  c.j.a.JivaApiHandlerApplicationTests - Starting JivaApiHandlerApplicationTests using Java 1.8.0_202 on PAWANK-IT with PID 18820 (started by jiva in D:\Working-Space\jivaEclipseWorkspace\JivaApiHandler)
+2023-07-03 13:34:31 [main] INFO  c.j.a.JivaApiHandlerApplicationTests - The following 1 profile is active: "prod"
+2023-07-03 13:34:35 [main] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - maxLifetime is less than 30000ms, setting to default 1800000ms.
+2023-07-03 13:34:35 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-07-03 13:34:35 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-07-03 13:34:35 [main] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - maxLifetime is less than 30000ms, setting to default 1800000ms.
+2023-07-03 13:34:35 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2023-07-03 13:34:35 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2023-07-03 13:34:35 [main] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - maxLifetime is less than 30000ms, setting to default 1800000ms.
+2023-07-03 13:34:35 [main] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - idleTimeout has been set but has no effect because the pool is operating as a fixed size pool.
+2023-07-03 13:34:35 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2023-07-03 13:34:35 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2023-07-03 13:34:37 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2023-07-03 13:34:39 [main] INFO  c.j.a.JivaApiHandlerApplicationTests - Started JivaApiHandlerApplicationTests in 8.939 seconds (JVM running for 9.975)
+2023-07-03 13:34:40 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2023-07-03 13:34:40 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2023-07-03 13:34:40 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2023-07-03 13:34:40 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2023-07-03 13:34:40 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-07-03 13:34:40 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
